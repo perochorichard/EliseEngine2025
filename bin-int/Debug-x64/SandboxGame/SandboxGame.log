@@ -1,0 +1,3 @@
+﻿  Application.cpp
+E:\Visual Studio Projects\EliseEngine2025\SandboxGame\src\Application.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SandboxGame.vcxproj -> E:\Visual Studio Projects\EliseEngine2025\bin\Debug-x64\SandboxGame\SandboxGame.exe
