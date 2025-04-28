@@ -1,0 +1,3 @@
+[submodule "EliseEngine2025/vendor/spdlog"]
+	path = EliseEngine2025/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
